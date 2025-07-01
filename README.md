@@ -1,4 +1,4 @@
-## Call Centre Optimisation using Markov Decision Process (MDP) and Reinforcement Learning (Proximal Policy Optimisation (PPO))
+## Call Centre Optimisation Using Markov Decision Process (MDP) and Reinforcement Learning (Proximal Policy Optimisation (PPO))
 
 ### Part A
 This study involves the optimisation of skill-based routing that assigns incoming calls to agents based on specific skills required to address customer needs effectively. 
