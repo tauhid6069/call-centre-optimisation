@@ -123,4 +123,4 @@ VI provides a strong mathematical baseline, but PPO adapts better to complex, un
 
 ## 👤 Author
 **Md Tauhidul Islam**  
-[LinkedIn](www.linkedin.com/in/tauhidul-islam) 
+[LinkedIn](https://www.linkedin.com/in/tauhidul-islam) 
